@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/design_handoff_yui_asset_lp/reference/index.html" }
+  ]
+}
